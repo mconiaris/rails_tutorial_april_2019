@@ -1,7 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# rails_tutorial_april_2019
+Messing Around With Rails in April 2019. Nothing much to see here!
 
 Things you may want to cover:
 

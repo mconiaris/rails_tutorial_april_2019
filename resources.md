@@ -1,6 +1,9 @@
 # Documentation
 Rails naming conventions: https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e
 
+Ruby Documentation: https://www.ruby-lang.org/en/documentation/
+
+
 # Tutorials
 Ruby on Rails Guides (v5.2.3): https://guides.rubyonrails.org/
 

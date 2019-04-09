@@ -1,4 +1,6 @@
 # Documentation
+Rails api: https://api.rubyonrails.org/
+
 Rails naming conventions: https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e
 
 Ruby Documentation: https://www.ruby-lang.org/en/documentation/

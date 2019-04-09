@@ -1,4 +1,6 @@
 # Documentation
+Ruby on Rails Source Code: https://github.com/rails/rails
+
 *TODO: READ THIS:* Rails api: https://api.rubyonrails.org/
 
 Rails naming conventions: https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e

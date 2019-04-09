@@ -17,4 +17,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 # Current Spot
 3.2 Creating the Blog Application: https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 
+Temp:
+Ruby and singleton syntax: https://stackoverflow.com/questions/2505067/class-self-idiom-in-ruby
+
 Researching source code of "rails new" and generators.

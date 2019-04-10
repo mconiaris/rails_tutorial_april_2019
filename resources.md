@@ -20,4 +20,6 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 Temp:
 Ruby and singleton syntax: https://stackoverflow.com/questions/2505067/class-self-idiom-in-ruby
 
+Metaprogramming in Ruby: It's All About the Self: https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/
+
 Researching source code of "rails new" and generators.

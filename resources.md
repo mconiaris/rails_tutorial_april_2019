@@ -23,3 +23,8 @@ Ruby and singleton syntax: https://stackoverflow.com/questions/2505067/class-sel
 Metaprogramming in Ruby: It's All About the Self: https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/
 
 Researching source code of "rails new" and generators.
+
+
+# Previous Research
+- Rails Uses Metaprogramming to generate apps. 
+- Metaprogramming (https://en.wikipedia.org/wiki/Metaprogramming) is a programming technique in which computer programs have the ability to treat other programs as their data. It means that a program can be designed to read, generate, analyze or transform other programs, and even modify itself while running. In some cases, this allows programmers to minimize the number of lines of code to express a solution, in turn reducing development time.[3] It also allows programs greater flexibility to efficiently handle new situations without recompilation.

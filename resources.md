@@ -27,7 +27,7 @@ Researching source code of "rails new" and generators.
 
 # Previous Research
 ## Rails Uses Metaprogramming and Metaclasses to generate apps. 
-- Metaprogramming (https://en.wikipedia.org/wiki/Metaprogramming) is a programming technique in which computer programs have the ability to treat other programs as their data. It means that a program can be designed to read, generate, analyze or transform other programs, and even modify itself while running. In some cases, this allows programmers to minimize the number of lines of code to express a solution, in turn reducing development time.[3] It also allows programs greater flexibility to efficiently handle new situations without recompilation.
+- Metaprogramming (https://en.wikipedia.org/wiki/Metaprogramming) means that a program can be designed to read, generate, analyze or transform other programs, and even modify itself while running. In some cases, this allows programmers to minimize the number of lines of code to express a solution, in turn reducing development time. It also allows programs greater flexibility to efficiently handle new situations without recompilation.
 - Metaclass (https://en.wikipedia.org/wiki/Metaclass). In object-oriented programming, a metaclass is a class whose instances are classes. Just as an ordinary class defines the behavior of certain objects, a metaclass defines the behavior of certain classes and their instances.
 - Metaclasses can be implemented by having classes be first-class citizen, in which case a metaclass is simply an object that constructs classes.
 - This allows details of the class to be overwritten. (???)

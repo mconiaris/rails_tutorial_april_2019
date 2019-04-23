@@ -3,7 +3,7 @@ Messing Around With Rails in April 2019. Nothing much to see here!
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.6.2
 
 * System dependencies
 

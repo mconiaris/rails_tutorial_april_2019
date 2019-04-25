@@ -46,4 +46,5 @@ Researching source code of "rails new" and generators.
 - What is the use in class/static methods in ruby? (https://stackoverflow.com/questions/18471838/what-is-the-use-in-class-static-methods-in-ruby): In general, if a method would operate on a group of instances, or is code related to that class but does not directly read or update a single instance, then it probably should be a class method.
 ## Rails uses delegate to initialize an app
 - Understanding Ruby and Rails: Delegate (https://simonecarletti.com/blog/2009/12/inside-ruby-on-rails-delegate/)
+- The Delegation Design Pattern is a technique where an object exposes certain behavior but it actually delegates responsibility for implementing that behavior to an associated object.
 

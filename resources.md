@@ -48,4 +48,7 @@ Researching source code of "rails new" and generators.
 - Understanding Ruby and Rails: Delegate (https://simonecarletti.com/blog/2009/12/inside-ruby-on-rails-delegate/)
 - The Delegation Design Pattern is a technique where an object exposes certain behavior but it actually delegates responsibility for implementing that behavior to an associated object.
 - Methods can be delegated to instance variables, class variables, or constants by providing them as a symbol. At least one method and the :to option are required.
+## Autoload
+- Ruby Techniques Revealed: Autoload (http://www.rubyinside.com/ruby-techniques-revealed-autoload-1652.html)
+- autoload works in a similar way to require, but it only loads the file specified when a constant of your choosing is accessed/used for the first time. This constant would usually be the name of the class provided by the other source file
 

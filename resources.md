@@ -47,4 +47,5 @@ Researching source code of "rails new" and generators.
 ## Rails uses delegate to initialize an app
 - Understanding Ruby and Rails: Delegate (https://simonecarletti.com/blog/2009/12/inside-ruby-on-rails-delegate/)
 - The Delegation Design Pattern is a technique where an object exposes certain behavior but it actually delegates responsibility for implementing that behavior to an associated object.
+- Methods can be delegated to instance variables, class variables, or constants by providing them as a symbol. At least one method and the :to option are required.
 

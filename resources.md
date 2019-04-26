@@ -51,4 +51,6 @@ Researching source code of "rails new" and generators.
 ## Autoload
 - Ruby Techniques Revealed: Autoload (http://www.rubyinside.com/ruby-techniques-revealed-autoload-1652.html)
 - autoload works in a similar way to require, but it only loads the file specified when a constant of your choosing is accessed/used for the first time. This constant would usually be the name of the class provided by the other source file
+- Using Ruby's Autoload Method To Configure Your App Just-in-Time (http://archive.subelsky.com/2008/05/using-rubys-autoload-method-to.html)
+- Using autoload, you can associate a constant with a filename to be loaded the first time that constant is referenced.
 

@@ -1,3 +1,5 @@
+Current Spot: 4.1 Starting up the Web Server
+
 # Documentation
 Ruby on Rails Source Code: https://github.com/rails/rails
 

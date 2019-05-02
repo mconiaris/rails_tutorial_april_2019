@@ -1,4 +1,4 @@
-Current Spot: 4.1 Starting up the Web Server
+Current Spot: 4.2 Say "Hello", Rails
 
 # Documentation
 Ruby on Rails Source Code: https://github.com/rails/rails

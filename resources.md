@@ -1,5 +1,3 @@
-Current Spot: 4.2 Say "Hello", Rails
-
 # Documentation
 Ruby on Rails Source Code: https://github.com/rails/rails
 
@@ -17,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-3.2 Creating the Blog Application: https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
+4.2 Say "Hello", Rails: https://guides.rubyonrails.org/getting_started.html#say-hello-rails
 
 
 Researching source code of "rails new" and generators.

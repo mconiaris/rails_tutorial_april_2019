@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-4.2 Say "Hello", Rails: https://guides.rubyonrails.org/getting_started.html#say-hello-rails
+4.3 Setting the Application Home Page: https://guides.rubyonrails.org/getting_started.html#setting-the-application-home-page
 
 
 Researching source code of "rails new" and generators.

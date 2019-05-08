@@ -52,4 +52,6 @@ Researching source code of "rails new" and generators.
 - autoload works in a similar way to require, but it only loads the file specified when a constant of your choosing is accessed/used for the first time. This constant would usually be the name of the class provided by the other source file
 - Using Ruby's Autoload Method To Configure Your App Just-in-Time (http://archive.subelsky.com/2008/05/using-rubys-autoload-method-to.html)
 - Using autoload, you can associate a constant with a filename to be loaded the first time that constant is referenced.
+## REST
+- What is REST? (https://www.codecademy.com/articles/what-is-rest): REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
 

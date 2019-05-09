@@ -55,3 +55,5 @@ Researching source code of "rails new" and generators.
 ## REST
 - What is REST? (https://www.codecademy.com/articles/what-is-rest): REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
 
+## MIME Types
+- MIME types (IANA media types): https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types

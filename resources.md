@@ -59,3 +59,6 @@ Researching source code of "rails new" and generators.
 ## MIME Types
 - MIME types (IANA media types): https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 - The simplest MIME type consists of a type and a subtype; these are each strings which, when concatenated with a slash (/) between them, comprise a MIME type. No whitespace is allowed in a MIME type
+
+## TODOs
+- Research actionpack

@@ -18,7 +18,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 5.1 Laying down the groundwork: https://guides.rubyonrails.org/getting_started.html#laying-down-the-groundwork
 At the Application Controller section
 
-Application Controller Docs: https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/base.rb
+Metal Controller Docs: https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/metal.rb
 
 
 Researching source code of "rails new" and generators.

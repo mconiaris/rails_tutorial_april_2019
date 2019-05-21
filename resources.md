@@ -21,9 +21,6 @@ At the Application Controller section
 Finished Action Controller Docs
 
 
-Researching source code of "rails new" and generators.
-
-
 # Previous Research
 ## Self Idiom
 - Ruby and singleton syntax: https://stackoverflow.com/questions/2505067/class-self-idiom-in-ruby

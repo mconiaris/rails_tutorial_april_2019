@@ -16,7 +16,6 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 # Current Spot
 5.1 Laying down the groundwork: https://guides.rubyonrails.org/getting_started.html#laying-down-the-groundwork
-At the Application Controller section
 
 Finished Action Controller Docs
 

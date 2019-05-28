@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-5.3 Creating articles: https://guides.rubyonrails.org/getting_started.html#creating-articles
+5.4 Creating the Article model: https://guides.rubyonrails.org/getting_started.html#creating-the-article-model
 
 Finished Action Controller Docs
 

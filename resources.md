@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-5.6 Saving data in the controller: https://guides.rubyonrails.org/getting_started.html#saving-data-in-the-controller
+5.7 Showing Articles: https://guides.rubyonrails.org/getting_started.html#showing-articles
 
 Finished Action Controller Docs
 

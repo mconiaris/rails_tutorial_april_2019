@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-5.9 Adding links: https://guides.rubyonrails.org/getting_started.html#adding-links
+5.10 Adding Some Validation: https://guides.rubyonrails.org/getting_started.html#adding-some-validation
 
 Finished Action Controller Docs
 

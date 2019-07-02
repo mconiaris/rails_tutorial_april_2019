@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-5.12 Using partials to clean up duplication in views: https://guides.rubyonrails.org/getting_started.html#using-partials-to-clean-up-duplication-in-views
+5.13 Deleting Articles: https://guides.rubyonrails.org/getting_started.html#deleting-articles
 
 Finished Action Controller Docs
 

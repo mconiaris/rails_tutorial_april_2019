@@ -17,8 +17,6 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 # Current Spot
 5.13 Deleting Articles: https://guides.rubyonrails.org/getting_started.html#deleting-articles
 
-Finished Action Controller Docs
-
 
 # Previous Research
 ## Self Idiom

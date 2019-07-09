@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-5.13 Deleting Articles: https://guides.rubyonrails.org/getting_started.html#deleting-articles
+6 Adding a Second Model: https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
 
 
 # Previous Research

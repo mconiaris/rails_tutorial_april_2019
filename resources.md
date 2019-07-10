@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-6 Adding a Second Model: https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
+6.1 Generating a Model: https://guides.rubyonrails.org/getting_started.html#generating-a-model
 
 
 # Previous Research

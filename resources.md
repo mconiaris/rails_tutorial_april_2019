@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-6.2 Associating Models: https://guides.rubyonrails.org/getting_started.html#associating-models
+6.3 Adding a Route for Comments: https://guides.rubyonrails.org/getting_started.html#adding-a-route-for-comments
 
 
 # Previous Research

@@ -12,8 +12,12 @@
 <% @article.comments.each do |comment| %>
 	<p>
 		<strong>Commenter:</strong>
-		<%= comment.body %>
+		<%= comment.commenter %>
 	</p>
+	<p>
+		<strong>Comment:</strong>
+		<%= comment.body %>
+	</p><br>
 <% end %>
 
 <h2>Add a comment:</h2>

@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-6.4 Generating a Controller: https://guides.rubyonrails.org/getting_started.html#generating-a-controller
+7 Refactoring: https://guides.rubyonrails.org/getting_started.html#refactoring
 
 
 # Previous Research

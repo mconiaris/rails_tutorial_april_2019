@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-7.2 Rendering a Partial Form: https://guides.rubyonrails.org/getting_started.html#rendering-a-partial-form
+8 Deleting Comments: https://guides.rubyonrails.org/getting_started.html#deleting-comments
 
 
 # Previous Research

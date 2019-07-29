@@ -15,7 +15,7 @@ Setting up a BDD Stack on a Rails 5 Application: https://semaphoreci.com/communi
 
 
 # Current Spot
-10 What's Next?: https://guides.rubyonrails.org/getting_started.html#what-s-next-questionmark
+11 Configuration Gotchas: https://guides.rubyonrails.org/getting_started.html#configuration-gotchas
 
 
 # Previous Research
